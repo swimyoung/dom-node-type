@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/swimyoung/dom-node-type.svg?branch=master)](https://travis-ci.org/swimyoung/dom-node-type) [![codecov](https://codecov.io/gh/swimyoung/dom-node-type/branch/master/graph/badge.svg?token=QVH64WV34C)](https://codecov.io/gh/swimyoung/dom-node-type)
+
